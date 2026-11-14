@@ -1,0 +1,5 @@
+data/cache/
+data/alerts.json
+__pycache__/
+.pytest_cache/
+.claude/
