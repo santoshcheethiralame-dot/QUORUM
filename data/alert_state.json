@@ -4,7 +4,12 @@
   "IN": "Uptrend",
   "CRYPTO": "Correction"
  },
- "buy": [],
- "sell": [],
- "tickets": "2026-11-13:12"
+ "buy": [
+  "UNP",
+  "JSWSTEEL.NS"
+ ],
+ "sell": [
+  "MU"
+ ],
+ "tickets": "2026-11-16:2"
 }
