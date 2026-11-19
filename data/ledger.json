@@ -1,7 +1,7 @@
 {
  "inception": "2026-11-13",
  "capital0": 100000.0,
- "cash": 69886.40675806587,
+ "cash": 70997.95768427891,
  "units": {
   "SPY": 2.9669,
   "EFA": 14.17,
@@ -10,35 +10,46 @@
   "INDA": 30.4129,
   "TLT": -53.7951,
   "IEF": -64.047,
-  "GLD": -12.0193,
-  "DBC": 229.0748,
+  "GLD": -10.0584,
+  "DBC": 169.0458,
   "VNQ": 28.4998,
   "UUP": 1186.4407,
   "HYG": -56.9064
  },
- "last_bar": "2026-11-17",
+ "last_bar": "2026-11-18",
  "pending": [
   {
-   "symbol": "GLD",
+   "symbol": "SPY",
+   "side": "Sell",
+   "qty": 1.2036,
+   "signed_qty": -1.2036,
+   "price": 730.2,
+   "notional": 878.87,
+   "from_w": 0.0217,
+   "to_w": 0.0129,
+   "decided": "2026-11-18"
+  },
+  {
+   "symbol": "INDA",
    "side": "Buy",
-   "qty": 1.9609,
-   "signed_qty": 1.9609,
-   "price": 352.48,
-   "notional": 691.18,
-   "from_w": -0.0424,
-   "to_w": -0.0355,
-   "decided": "2026-11-17"
+   "qty": 23.6002,
+   "signed_qty": 23.6002,
+   "price": 51.46,
+   "notional": 1214.47,
+   "from_w": 0.0157,
+   "to_w": 0.0278,
+   "decided": "2026-11-18"
   },
   {
    "symbol": "DBC",
    "side": "Sell",
-   "qty": 60.029,
-   "signed_qty": -60.029,
-   "price": 30.19,
-   "notional": 1812.28,
-   "from_w": 0.0693,
-   "to_w": 0.0511,
-   "decided": "2026-11-17"
+   "qty": 30.5599,
+   "signed_qty": -30.5599,
+   "price": 29.51,
+   "notional": 901.82,
+   "from_w": 0.05,
+   "to_w": 0.0409,
+   "decided": "2026-11-18"
   }
  ],
  "equity": [
@@ -53,6 +64,10 @@
   [
    "2026-11-17",
    99834.47
+  ],
+  [
+   "2026-11-18",
+   99844.19
   ]
  ],
  "fills": [
@@ -159,6 +174,22 @@
    "qty": 2.7179,
    "price": 353.87,
    "notional": 961.78
+  },
+  {
+   "date": "2026-11-18",
+   "symbol": "GLD",
+   "side": "Buy",
+   "qty": 1.9609,
+   "price": 346.31,
+   "notional": 679.08
+  },
+  {
+   "date": "2026-11-18",
+   "symbol": "DBC",
+   "side": "Sell",
+   "qty": 60.029,
+   "price": 29.85,
+   "notional": 1791.87
   }
  ]
 }

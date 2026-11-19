@@ -1,10 +1,14 @@
 {
  "regime": {
-  "US": "Bull run",
+  "US": "Uptrend",
   "IN": "Uptrend",
   "CRYPTO": "Correction"
  },
- "buy": [],
- "sell": [],
- "tickets": "2026-11-17:2"
+ "buy": [
+  "ABBV"
+ ],
+ "sell": [
+  "MRK"
+ ],
+ "tickets": "2026-11-18:3"
 }
