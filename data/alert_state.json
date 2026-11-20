@@ -4,7 +4,9 @@
   "IN": "Uptrend",
   "CRYPTO": "Correction"
  },
- "buy": [],
+ "buy": [
+  "JSWSTEEL.NS"
+ ],
  "sell": [
   "JNJ"
  ],
