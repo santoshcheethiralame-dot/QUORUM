@@ -1,14 +1,12 @@
 {
  "regime": {
-  "US": "Uptrend",
+  "US": "Crisis",
   "IN": "Uptrend",
   "CRYPTO": "Correction"
  },
- "buy": [
-  "ABBV"
- ],
+ "buy": [],
  "sell": [
-  "MRK"
+  "JNJ"
  ],
- "tickets": "2026-11-18:3"
+ "tickets": "2026-11-19:4"
 }
