@@ -4,11 +4,12 @@
   "IN": "Uptrend",
   "CRYPTO": "Correction"
  },
- "buy": [
-  "JSWSTEEL.NS"
- ],
+ "buy": [],
  "sell": [
-  "JNJ"
+  "AMD",
+  "TXN",
+  "TMO",
+  "ANET"
  ],
- "tickets": "2026-11-19:4"
+ "tickets": "2026-11-20:4"
 }
