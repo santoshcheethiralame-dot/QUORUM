@@ -2,14 +2,9 @@
  "regime": {
   "US": "Crisis",
   "IN": "Uptrend",
-  "CRYPTO": "Correction"
+  "CRYPTO": "Crisis"
  },
  "buy": [],
- "sell": [
-  "AMD",
-  "TXN",
-  "TMO",
-  "ANET"
- ],
- "tickets": "2026-11-20:4"
+ "sell": [],
+ "tickets": "2026-11-23:6"
 }
