@@ -1,90 +1,46 @@
 {
  "inception": "2026-11-13",
  "capital0": 100000.0,
- "cash": 76266.65673829668,
+ "cash": 80606.26187746452,
  "units": {
   "SPY": 0.3594,
   "EFA": 2.9883,
-  "EEM": -29.2988,
-  "SMH": -1.4929,
+  "EEM": -16.08,
+  "SMH": -0.8063,
   "INDA": 68.8242,
   "TLT": -53.7951,
   "IEF": -64.047,
-  "GLD": -12.4239,
-  "DBC": 138.4859,
-  "VNQ": 28.4998,
+  "GLD": -10.6484,
+  "DBC": 92.4759,
+  "VNQ": 16.8987,
   "UUP": 1186.4407,
-  "HYG": -56.9064,
+  "HYG": -103.6736,
   "QQQ": -1.0143,
   "IWM": -3.0916
  },
- "last_bar": "2026-11-23",
+ "last_bar": "2026-11-24",
  "pending": [
   {
-   "symbol": "EEM",
-   "side": "Buy",
-   "qty": 13.2188,
-   "signed_qty": 13.2188,
-   "price": 57.83,
-   "notional": 764.44,
-   "from_w": -0.017,
-   "to_w": -0.0093,
-   "decided": "2026-11-23"
-  },
-  {
-   "symbol": "SMH",
-   "side": "Buy",
-   "qty": 0.6866,
-   "signed_qty": 0.6866,
-   "price": 460.18,
-   "notional": 315.96,
-   "from_w": -0.0069,
-   "to_w": -0.0037,
-   "decided": "2026-11-23"
-  },
-  {
-   "symbol": "HYG",
+   "symbol": "EFA",
    "side": "Sell",
-   "qty": 46.7672,
-   "signed_qty": -46.7672,
-   "price": 76.52,
-   "notional": 3578.63,
-   "from_w": -0.0436,
-   "to_w": -0.0795,
-   "decided": "2026-11-23"
+   "qty": 8.4377,
+   "signed_qty": -8.4377,
+   "price": 98.88,
+   "notional": 834.32,
+   "from_w": 0.003,
+   "to_w": -0.0054,
+   "decided": "2026-11-24"
   },
   {
-   "symbol": "GLD",
+   "symbol": "IEF",
    "side": "Buy",
-   "qty": 1.7755,
-   "signed_qty": 1.7755,
-   "price": 333.02,
-   "notional": 591.28,
-   "from_w": -0.0414,
-   "to_w": -0.0355,
-   "decided": "2026-11-23"
-  },
-  {
-   "symbol": "DBC",
-   "side": "Sell",
-   "qty": 46.01,
-   "signed_qty": -46.01,
-   "price": 29.11,
-   "notional": 1339.35,
-   "from_w": 0.0404,
-   "to_w": 0.027,
-   "decided": "2026-11-23"
-  },
-  {
-   "symbol": "VNQ",
-   "side": "Sell",
-   "qty": 11.6011,
-   "signed_qty": -11.6011,
-   "price": 93.67,
-   "notional": 1086.68,
-   "from_w": 0.0267,
-   "to_w": 0.0159,
-   "decided": "2026-11-23"
+   "qty": 29.3617,
+   "signed_qty": 29.3617,
+   "price": 91.64,
+   "notional": 2690.71,
+   "from_w": -0.0588,
+   "to_w": -0.0318,
+   "decided": "2026-11-24"
   }
  ],
  "equity": [
@@ -115,6 +71,10 @@
   [
    "2026-11-23",
    99824.04
+  ],
+  [
+   "2026-11-24",
+   99859.23
   ]
  ],
  "fills": [
@@ -317,6 +277,54 @@
    "qty": 38.4113,
    "price": 52.0,
    "notional": 1997.39
+  },
+  {
+   "date": "2026-11-24",
+   "symbol": "EEM",
+   "side": "Buy",
+   "qty": 13.2188,
+   "price": 57.18,
+   "notional": 755.85
+  },
+  {
+   "date": "2026-11-24",
+   "symbol": "SMH",
+   "side": "Buy",
+   "qty": 0.6866,
+   "price": 441.0,
+   "notional": 302.79
+  },
+  {
+   "date": "2026-11-24",
+   "symbol": "HYG",
+   "side": "Sell",
+   "qty": 46.7672,
+   "price": 76.3,
+   "notional": 3568.34
+  },
+  {
+   "date": "2026-11-24",
+   "symbol": "GLD",
+   "side": "Buy",
+   "qty": 1.7755,
+   "price": 331.43,
+   "notional": 588.45
+  },
+  {
+   "date": "2026-11-24",
+   "symbol": "DBC",
+   "side": "Sell",
+   "qty": 46.01,
+   "price": 29.15,
+   "notional": 1341.19
+  },
+  {
+   "date": "2026-11-24",
+   "symbol": "VNQ",
+   "side": "Sell",
+   "qty": 11.6011,
+   "price": 93.18,
+   "notional": 1080.99
   }
  ]
 }
