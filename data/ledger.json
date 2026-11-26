@@ -1,15 +1,15 @@
 {
  "inception": "2026-11-13",
  "capital0": 100000.0,
- "cash": 80606.26187746452,
+ "cash": 78719.40700361264,
  "units": {
   "SPY": 0.3594,
-  "EFA": 2.9883,
+  "EFA": -5.4494,
   "EEM": -16.08,
   "SMH": -0.8063,
   "INDA": 68.8242,
   "TLT": -53.7951,
-  "IEF": -64.047,
+  "IEF": -34.6853,
   "GLD": -10.6484,
   "DBC": 92.4759,
   "VNQ": 16.8987,
@@ -18,29 +18,40 @@
   "QQQ": -1.0143,
   "IWM": -3.0916
  },
- "last_bar": "2026-11-24",
+ "last_bar": "2026-11-25",
  "pending": [
   {
-   "symbol": "EFA",
-   "side": "Sell",
-   "qty": 8.4377,
-   "signed_qty": -8.4377,
-   "price": 98.88,
-   "notional": 834.32,
-   "from_w": 0.003,
-   "to_w": -0.0054,
-   "decided": "2026-11-24"
+   "symbol": "TLT",
+   "side": "Buy",
+   "qty": 21.1525,
+   "signed_qty": 21.1525,
+   "price": 82.24,
+   "notional": 1739.58,
+   "from_w": -0.0443,
+   "to_w": -0.0269,
+   "decided": "2026-11-25"
   },
   {
-   "symbol": "IEF",
-   "side": "Buy",
-   "qty": 29.3617,
-   "signed_qty": 29.3617,
-   "price": 91.64,
-   "notional": 2690.71,
-   "from_w": -0.0588,
-   "to_w": -0.0318,
-   "decided": "2026-11-24"
+   "symbol": "GLD",
+   "side": "Sell",
+   "qty": 2.2407,
+   "signed_qty": -2.2407,
+   "price": 327.45,
+   "notional": 733.72,
+   "from_w": -0.0349,
+   "to_w": -0.0423,
+   "decided": "2026-11-25"
+  },
+  {
+   "symbol": "DBC",
+   "side": "Sell",
+   "qty": 35.1518,
+   "signed_qty": -35.1518,
+   "price": 29.27,
+   "notional": 1028.89,
+   "from_w": 0.0271,
+   "to_w": 0.0168,
+   "decided": "2026-11-25"
   }
  ],
  "equity": [
@@ -75,6 +86,10 @@
   [
    "2026-11-24",
    99859.23
+  ],
+  [
+   "2026-11-25",
+   99780.97
   ]
  ],
  "fills": [
@@ -325,6 +340,22 @@
    "qty": 11.6011,
    "price": 93.18,
    "notional": 1080.99
+  },
+  {
+   "date": "2026-11-25",
+   "symbol": "EFA",
+   "side": "Sell",
+   "qty": 8.4377,
+   "price": 97.81,
+   "notional": 825.29
+  },
+  {
+   "date": "2026-11-25",
+   "symbol": "IEF",
+   "side": "Buy",
+   "qty": 29.3617,
+   "price": 92.31,
+   "notional": 2710.38
   }
  ]
 }
